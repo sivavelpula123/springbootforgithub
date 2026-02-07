@@ -1,1 +1,4 @@
-thiis sample text
+stage -> commit -> push
+add -> commit -> push
+
+this sample text
